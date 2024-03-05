@@ -1,0 +1,10 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url(./artwork-2d-5317639_960_720.webp)
+    
+}
